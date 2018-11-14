@@ -1,0 +1,14 @@
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/core-api.deps.json
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/core-api.runtimeconfig.json
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/core-api.runtimeconfig.dev.json
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/core-api.dll
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/core-api.pdb
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.csprojAssemblyReference.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.csproj.CoreCompileInputs.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.RazorAssemblyInfo.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.RazorAssemblyInfo.cs
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.AssemblyInfoInputs.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.AssemblyInfo.cs
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.RazorTargetAssemblyInfo.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.dll
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/core-api.pdb

@@ -1,0 +1,17 @@
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/hostpolicy.dll
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/hostfxr.dll
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/core-api.exe
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/core-api.deps.json
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/core-api.runtimeconfig.json
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/core-api.runtimeconfig.dev.json
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/core-api.dll
+/Users/binitdatta/DotNetCore/core-api/bin/Debug/netcoreapp2.1/win-x64/core-api.pdb
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.csprojAssemblyReference.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.csproj.CoreCompileInputs.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.RazorAssemblyInfo.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.RazorAssemblyInfo.cs
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.AssemblyInfoInputs.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.AssemblyInfo.cs
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.RazorTargetAssemblyInfo.cache
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.dll
+/Users/binitdatta/DotNetCore/core-api/obj/Debug/netcoreapp2.1/win-x64/core-api.pdb
