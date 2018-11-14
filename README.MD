@@ -28,3 +28,5 @@ binitdatta/core-api
 Contribute to binitdatta/core-api development by creating an account on GitHub.
 
 The EC2 instance security group has port 80 open for all traffic
+
+# If you want to deploy in AWS Elasticbeanstalk, upload the core-api-aws.zip to EBS and go for a cofeebreak.
